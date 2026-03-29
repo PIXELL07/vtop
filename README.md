@@ -1,0 +1,1 @@
+An package manager for AppImages
